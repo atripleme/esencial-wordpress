@@ -1,0 +1,12 @@
+Comentarios del cuso:
+
+<!-- <?php get_header("Home"); ?> archivo llamado header-home.php -->
+
+http://www.billerickson.net/code/wp_query-arguments/
+
+http://docs.emmet.io/cheat-sheet/ //EMMET
+
+the_post_thumbnail('thumbnail');
+the_post_thumbnail('medium');
+the_post_thumbnail('large');
+the_post_thumbnail('full');
