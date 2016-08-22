@@ -1,0 +1,2 @@
+# esencial-wordpress
+Platzi
